@@ -6,3 +6,4 @@ console.log(name);
 console.log(age);
 console.log("This is the final Result");
 console.log("Perfect!!");
+console.log("Awesome!!");
