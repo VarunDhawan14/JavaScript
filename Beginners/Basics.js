@@ -27,12 +27,15 @@
 // console.log( 10 <= 10);  // true 
 
 // 2. Equality operators are : ( === ) strict equality {type + value} , (!==) strict not equality { type + value } , ( == ) lose equality {value} , (!= ) lose not equality
-//  we have to always use strict equality and strict not equality 
+
+//  we have to always use strict equality and strict not equality
 
 // console.log( 20 === 20 );     // same data type and same value : strict equality
 // console.log( 30 !== 20);      // same data type and same value : strict not equality 
 // console.log( 30 == "30");     // different data type and same value : lose equality 
-// console.log( 40 != 40 );      // same value : lose not equality 
+// console.log( 40 != 40 );      // same value : lose not equality
+
+
 
 
 
