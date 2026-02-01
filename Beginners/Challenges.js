@@ -27,21 +27,79 @@
 // console.log(firstnum < secondnum);
 // console.log(firstnum >= secondnum);
 // console.log(firstnum <= secondnum);
-// console.log(firstnum === secondnum); // using strict equality operator 
-// console.log(firstnum == secondnum);  // using loose equality operator 
-// console.log(firstnum !== secondnum); // using strict non-equality operator 
+// console.log(firstnum === secondnum); // using strict equality operator
+// console.log(firstnum == secondnum);  // using loose equality operator
+// console.log(firstnum !== secondnum); // using strict non-equality operator
 // console.log(firstnum != secondnum);   // using loose non-equality operator
 
 // ----- Challenge 4 ---- topic : if else if (conditional statement)-----
 
-let password;
+// let password;
 
-if ( password == 8){
-   console.log("Welcome");
-}else if (password <= 8 ){
-   console.log("Password is too short");
-}else if (password >= 8) {
-   console.log("Too long Password & Password should be 8 characters");
-}else {
-   console.log("Please provide a password");
-}
+// if ( password == 8){
+//    console.log("Welcome");
+// }else if (password <= 8 ){
+//    console.log("Password is too short");
+// }else if (password >= 8) {
+//    console.log("Too long Password & Password should be 8 characters");
+// }else {
+//    console.log("Please provide a password");
+// }
+
+// let number1 = 10;
+// let number2 = 0;
+
+// if ( number1 > number2){
+//    console.log(" Number1 is greater than Number2 ");
+// }else if ( number1 < number2){
+//    console.log(" Number2 is greater than Number1 ");
+// }else {
+//    console.log(" Number1 is equals to Number2 ");
+// }
+
+// ------ Challenge 5 ----- topic : Switch Statement ------
+
+// let fruit = "apple";
+
+// switch (fruit) {
+//   case "banana":
+//     console.log("Banana is good");
+//     break;
+//   case "orange":
+//     console.log("I am not a fan of Orange");
+//     break;
+//   case "apple":
+//     console.log("How you like them apples?");
+//     break;
+//   default:
+//     console.log("I have never heard of that fruit !");
+// }
+
+// ---- Challenge 6 --- topic : For Loop -----
+
+// let name = "Redhima & Varun Dhawan";
+
+// for (let i = 0; i <= 1000; i++) {
+//   console.log(name, i);
+// }
+
+// ----- Challenge 7 ---- topic : While Loop -----
+
+// let i = 10;
+
+// while (i <= 100) {
+//   console.log("Varun", i);
+//   i++;
+// }
+
+// ---- Challenge 8 ---- topic : do while loop -----
+
+// let i = 20;
+
+// do {
+//   console.log("I am a software Engineer", i);
+//   i++;
+// } while (i <= 400);
+
+// ----- Challenge 9 ----- topic : 
+
