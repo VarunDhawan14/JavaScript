@@ -101,5 +101,37 @@
 //   i++;
 // } while (i <= 400);
 
-// ----- Challenge 9 ----- topic : 
+// ----- Challenge 9 ----- topic : ARRAYs -----
 
+// const favsingers = ["karan aujla", "Arijit Singh", "sonu nigam"];
+//  console.log(favsingers[0]);
+
+// const favNumbers = [7, 18, 54, 1];
+//  console.log(favNumbers);
+
+// const mixedArr = ["Mahashivratri", ["Shiv", "Parvati"], 123, true];
+
+// console.log(mixedArr[0]);
+// console.log(mixedArr[1]);
+// console.log(mixedArr[2]);
+// console.log(mixedArr[3]);
+
+// ---- Challenge 10 --- topic : Javascipt Objects -----
+
+// const car = {
+//   type: "Mercedes",
+//   model: 2023,
+//   color: "Royal Grey",
+// };
+// console.log(typeof car);
+
+// console.log(car);
+
+// car.type = "Toyoto";
+// console.log(car);
+
+// car["wheels"] = 4;
+// console.log(car);
+
+
+// ---- Challenge 11 ---- topic : 
