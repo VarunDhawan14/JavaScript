@@ -133,5 +133,10 @@
 // car["wheels"] = 4;
 // console.log(car);
 
+// ---- Challenge 11 ---- topic : FUNCTIONS
 
-// ---- Challenge 11 ---- topic : 
+// function myFunction(a, b) {
+//   return a * b;
+// }
+// let value = myFunction(7, 3);
+// console.log(value);
