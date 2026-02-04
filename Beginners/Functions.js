@@ -36,3 +36,17 @@
 // };
 
 // greetings("Good Morning !");
+
+// -------------- CallBack Function ----------------
+// --- when we provide a function as an (argument) to other function that function is known as call-back function   -----------
+
+// function myself(name, cb) {
+//   console.log(`hello ${name}`);
+//   cb();
+// }
+
+// function cb() {
+//   console.log("I am pursuing Bachelors from Thapar !");
+// }
+
+// myself("varun", cb);

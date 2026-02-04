@@ -140,3 +140,16 @@
 // }
 // let value = myFunction(7, 3);
 // console.log(value);
+
+// ------ Challenge 12 ----- topic : Call-Back Functions
+
+// function showcallfunc(fn) {
+//   let value = 10;
+//   fn(value);
+// }
+
+// showcallfunc(function (value) {
+//   console.log(value);
+// });
+
+
