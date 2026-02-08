@@ -15,9 +15,9 @@
 
 // ---- template using input variables ----
 
-let name = "Varun Dhawan";
-let age = 20;
-let branch = "ENC";
+// let name = "Varun Dhawan";
+// let age = 20;
+// let branch = "ENC";
 
-console.log(`hey, my name is ${name} & my branch is ${name}`);
-console.log(`I am pursuing bachelors from Thapar University Patiala`);
+// console.log(`hey, my name is ${name} & my branch is ${name}`);
+// console.log(`I am pursuing bachelors from Thapar University Patiala`);
