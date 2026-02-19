@@ -10,6 +10,4 @@ function giveMe4(a, b, c, d) {
   console.log("d : ", a);
 }
 
-const colors = ["red", "yellow", "blue", "green"];
-giveMe4(colors);
-
+giveMe4();
