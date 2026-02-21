@@ -10,4 +10,4 @@ function giveMe4(a, b, c, d) {
   console.log("d : ", a);
 }
 
-giveMe4(50, 60, 70, 80);
+giveMe4(50);
