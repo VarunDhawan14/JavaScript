@@ -5,4 +5,6 @@
 // }
 // console.log(multiply(5));
 
+// ---- challenge 2 ---- topic : spread operator ---
 
+console.log("hey,how are you!");
