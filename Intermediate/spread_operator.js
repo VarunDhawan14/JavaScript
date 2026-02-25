@@ -3,11 +3,38 @@
 // The spread operator it commonly used to make shallow copies of JS objects.
 // Using this operator makes the code concise and enhances its readability.
 
-function giveMe4(a, b, c, d) {
-  console.log("a : ", a);
-  console.log("b : ", a);
-  console.log("c : ", a);
-  console.log("d : ", a);
-}
+// function giveMe4(a, b, c, d) {
+//   console.log("a : ", a);
+//   console.log("b : ", b);
+//   console.log("c : ", c);
+//   console.log("d : ", d);
+// }
+// const colors = ["red", "yellow", "blue", "green"];
+// giveMe4(...colors);
 
-giveMe4(50);
+// ---- spread operator using arrays -----
+
+// const list1 = ["one", "two", "three"];
+// const list2 = ["four", "five", "six"];
+// const concat = [...list1, ...list2];
+
+// console.log(concat);
+
+// ---- another syntax for spread operator -----
+
+// const names = ["redhima", "shreeya", "lavanya", "vanshi"];
+// const finalname = ["varun", ...names, "angel"];
+// console.log(finalname);
+
+// ----- spread operator using OBJECT -----
+
+// const obj1 = { x: 1, y: 2, z: 3 };
+// const obj2 = { a: 5, b: 10 };
+// const obj3 = { ...obj1, ...obj2 };
+
+// console.log(obj3);
+
+
+// ------------  REST OPERATOR   --------
+
+
