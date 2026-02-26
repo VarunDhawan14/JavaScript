@@ -28,13 +28,10 @@
 
 // ----- spread operator using OBJECT -----
 
-// const obj1 = { x: 1, y: 2, z: 3 };
-// const obj2 = { a: 5, b: 10 };
-// const obj3 = { ...obj1, ...obj2 };
+const obj1 = { x: 1, y: 2, z: 3 };
+const obj2 = { a: 5, b: 10 };
+const obj3 = { ...obj1, ...obj2 };
 
-// console.log(obj3);
-
+console.log(...obj3);
 
 // ------------  REST OPERATOR   --------
-
-
