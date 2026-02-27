@@ -35,3 +35,8 @@ const obj3 = { ...obj1, ...obj2 };
 console.log(...obj3);
 
 // ------------  REST OPERATOR   --------
+
+// ---The rest parameter syntax allows a function to accept an indefinite number of arguments.
+// ---as an array, providing a way to represent variadic functions in javascript
+
+
