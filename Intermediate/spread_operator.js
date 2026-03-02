@@ -39,8 +39,26 @@
 // ---The rest parameter syntax allows a function to accept an indefinite number of arguments.
 // ---as an array, providing a way to represent variadic functions in javascript
 
-function user(x, ...userdata) {
-  console.log(x);
-  console.log(userdata);
-}
-user("Varun Dhawan", 20, "programmer", "learning and growing","consistencyyy");
+// function user(x, ...userdata) {
+//   console.log(x);
+//   console.log(userdata);
+// }
+// user("Varun Dhawan", 20, "programmer", "learning and growing","consistencyyy");
+
+// ----- another example for rest operator ---------
+
+// function person(firstname, lastname, ...hobbies) {
+//   console.log("Firstname :",firstname);
+//   console.log("Lastname :",lastname);
+//   console.log("Hobbies :",hobbies);
+// }
+
+// person(
+//   "Varun",
+//   "Dhawan",
+//   "programmer",
+//   "cricket",
+//   "dancing",
+//   "Gym",
+//   "gymnasticss",
+// );
