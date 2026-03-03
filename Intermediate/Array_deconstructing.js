@@ -12,5 +12,5 @@
 
 let a, b;
 
-[a = 30, b = 20] = ["one", "two"];
+[a = 30, b = 20] = [];
 console.log(a);
