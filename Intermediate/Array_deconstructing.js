@@ -10,7 +10,13 @@
 
 // /---- another example -----
 
-let a, b;
+// let a, b;
 
-[a = 30, b = 20] = [];
-console.log(a, b);
+// [a = 30, b = 20] = [];
+// console.log(a, b);
+
+function person(age) {
+  [age = 30, birth = 40] = [];
+}
+
+console.log(person());
