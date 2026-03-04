@@ -13,4 +13,4 @@
 let a, b;
 
 [a = 30, b = 20] = [];
-console.log(a);
+console.log(a, b);
