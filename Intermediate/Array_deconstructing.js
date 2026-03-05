@@ -20,3 +20,4 @@ function person(age) {
 }
 
 console.log(person());
+console.log("hey , thankyou!");
