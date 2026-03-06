@@ -15,9 +15,15 @@
 // [a = 30, b = 20] = [];
 // console.log(a, b);
 
-function person(age) {
-  [age = 30, birth = 40] = [];
-}
+// function person(age) {
+//   [age = 30, birth = 40] = [];
+// }
 
-console.log(person());
-console.log("hey , thankyou!");
+// console.log(person());
+
+// -------- Deconstructing using Spread operator ------
+
+const [a, ...b] = ["one", "two", "three", "four", ["five", "six"]];
+console.log(b[2]);
+console.log(b);
+console.log(a);
