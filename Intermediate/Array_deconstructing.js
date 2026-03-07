@@ -23,16 +23,24 @@
 
 // -------- Deconstructing using Spread operator ------
 
-const [a, ...b] = [
-  "one",
-  "two",
-  "three",
-  "four",
-  ["five", "six"],
-  "seven",
-  "eight",
-  "nine",
-];
-console.log(a);
-console.log(b[6]);
-console.log(b[7]);
+// const [a, ...b] = [
+//   "one",
+//   "two",
+//   "three",
+//   "four",
+//   ["five", "six"],
+//   "seven",
+//   "eight",
+//   "nine",
+// ];
+// console.log(a);
+// console.log(b[6]);
+// console.log(b[7]);
+
+// ---- Deconstructing using OBJECTs --------
+// ----
+
+const student = { name: "Varun Dhawan", subgroup: "3O12", rollno: 102315043 };
+const { name, subgroup } = student; // -- deconstructing
+console.log(name);
+console.log(subgroup);
