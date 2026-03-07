@@ -23,7 +23,16 @@
 
 // -------- Deconstructing using Spread operator ------
 
-const [a, ...b] = ["one", "two", "three", "four", ["five", "six"]];
-console.log(b[2]);
-console.log(b);
+const [a, ...b] = [
+  "one",
+  "two",
+  "three",
+  "four",
+  ["five", "six"],
+  "seven",
+  "eight",
+  "nine",
+];
 console.log(a);
+console.log(b[6]);
+console.log(b[7]);
