@@ -40,7 +40,9 @@
 // ---- Deconstructing using OBJECTs --------
 // ----
 
-const student = { name: "Varun Dhawan", subgroup: "3O12", rollno: 102315043 };
-const { name, subgroup, rollno } = student; // -- deconstructing
-console.log(name);
-console.log(subgroup);
+// const student = { name: "Varun Dhawan", subgroup: "3O12", rollno: 102315043 };
+// const { name, subgroup, rollno } = student; // -- deconstructing
+// console.log(name);
+// console.log(subgroup);
+// console.log(rollno);
+
