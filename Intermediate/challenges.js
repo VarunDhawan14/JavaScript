@@ -26,4 +26,5 @@ amount(
   "Sucess is near by your dreams",
   "good work",
   "working on it ",
+  "loved it",
 );
