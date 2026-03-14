@@ -27,4 +27,5 @@ amount(
   "good work",
   "working on it ",
   "loved it",
+  "Thnkew",
 );
