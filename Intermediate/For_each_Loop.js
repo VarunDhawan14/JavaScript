@@ -1,3 +1,6 @@
-// ---- FOR each Loop in javascript is a method used by arrays 
+// ---- FOR each Loop in javascript is a method used by arrays
 
-
+function username(...user) {
+  console.log("varun dhawan");
+}
+console.log(username("102315043", "3O12 ENC"));
