@@ -5,3 +5,4 @@ function username(...user) {
 }
 console.log(username("102315043", "3O12 ENC"));
 console.log("This is the all information about me !!");
+console.log("THankwyou");
