@@ -13,20 +13,25 @@
 
 // ----- challenge 3 ----- topic : Rest Operator -----
 
-function amount(...Parameters) {
-  console.log(Parameters);
-}
+// function amount(...Parameters) {
+//   console.log(Parameters);
+// }
 
-amount(
-  "varun",
-  "dhawan",
-  "20 years old",
-  "engineer",
-  "dreams come true and work hard until you didn't acheive it !!",
-  "Sucess is near by your dreams",
-  "good work",
-  "working on it ",
-  "loved it",
-  "Thnkew",
-  "working on it",
-);
+// amount(
+//   "varun",
+//   "dhawan",
+//   "20 years old",
+//   "engineer",
+//   "dreams come true and work hard until you didn't acheive it !!",
+//   "Sucess is near by your dreams",
+//   "good work",
+//   "working on it ",
+//   "loved it",
+//   "Thnkew",
+//   "working on it",
+// );
+
+function name(username) {
+  console.log("Varun Dhawan");
+}
+console.log(name("102315043"));
