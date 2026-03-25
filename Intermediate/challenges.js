@@ -31,7 +31,13 @@
 //   "working on it",
 // );
 
-function name(username) {
-  console.log("Varun Dhawan");
+// function name(username) {
+//   console.log("Varun Dhawan");
+// }
+// console.log(name("102315043"));
+
+function study(...classess) {
+  console.log(classess);
 }
-console.log(name("102315043"));
+
+study("hi", "my", "name", "is", "varun!");
