@@ -41,3 +41,4 @@ function study(...classess) {
 }
 
 study("hi", "my", "name", "is", "varun!");
+console.log("thankyou for all the information!!");
