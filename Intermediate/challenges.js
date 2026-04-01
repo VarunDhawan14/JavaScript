@@ -11,35 +11,12 @@
 // console.log("What are you doing here?");
 // console.log("good work!");
 
-// ----- challenge 3 ----- topic : Rest Operator -----
+// ---- challenge as Function ----
+// --- Ques : Create a function using the "function" keyword that takes a string as an argument and returns the number of vowels in the string.
 
-// function amount(...Parameters) {
-//   console.log(Parameters);
-// }
-
-// amount(
-//   "varun",
-//   "dhawan",
-//   "20 years old",
-//   "engineer",
-//   "dreams come true and work hard until you didn't acheive it !!",
-//   "Sucess is near by your dreams",
-//   "good work",
-//   "working on it ",
-//   "loved it",
-//   "Thnkew",
-//   "working on it",
-// );
-
-// function name(username) {
-//   console.log("Varun Dhawan");
-// }
-// console.log(name("102315043"));
-
-function study(...classess) {
-  console.log(classess);
+function string1(str) {
+  console.log("varundhawan");
+  return str;
 }
-
-study("hi", "my", "name", "is", "varun!");
-console.log("thankyou for all the information!!");
-console.log("done!");
+const value = string1("programmer");
+console.log(value);
