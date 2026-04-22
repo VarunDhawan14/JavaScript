@@ -21,10 +21,11 @@
 // const value = string1("programmer");
 // console.log(value);
 
-function numbers(...num) {
-  console.log("This is the final output");
-  return 0;
-}
+// function numbers(...num) {
+//   console.log("This is the final output");
+//   return 0;
+// }
 
-let final_output = numbers("01,02,03,04,05,06");
-console.log(final_output);
+// let final_output = numbers("01,02,03,04,05,06");
+// console.log("Final Output is this:");
+// console.log(final_output);
