@@ -1,0 +1,17 @@
+.myclass{
+   color : black;
+   background-color: aqua;
+}
+#myid{
+   color: darkred;
+   background-color: white;
+   width: 30px;
+}
+p{
+   font-size: 30px;
+   color: chocolate;
+}
+#myid2{
+   color: lightgreen;
+   background-color: black;
+}
