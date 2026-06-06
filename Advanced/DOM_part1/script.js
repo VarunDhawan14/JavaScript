@@ -27,3 +27,6 @@
 
 // let newElement = document.createElement("div")
 // console.log(newElement.setAttribute("id","newID"))
+
+let element = document.querySelectorAll("p")
+console.log(element)
