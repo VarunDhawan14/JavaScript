@@ -1,0 +1,24 @@
+button{
+   height: 100px;
+   width: 100px;
+   border: 3px solid rgb(37, 223, 108);
+   background-color: black;
+   color: aquamarine;
+   text-align: center;
+}
+.dark{
+   background-color: black;
+   color: white;
+}
+.light{
+   background-color: white;
+   color: black;
+}
+/* div{
+   height: 100px;
+   width: 100px;
+   border: 3px solid rgb(225, 127, 227);
+   background-color: black;
+   color: rgb(255, 127, 227);
+   text-align: center;
+} */
