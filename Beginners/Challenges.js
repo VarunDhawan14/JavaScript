@@ -152,4 +152,32 @@
 //   console.log(value);
 // });
 
+// ------- CHallenge 13 - Related to Classes and Objects -------
 
+// let data = "secret information";
+class User {
+  constructor(name, email) {
+    this.name = name;
+    this.email = email;
+  }
+  viewdata() {
+    console.log("Data =", data);
+  }
+}
+// let student1 = new User("Varun Dhawan", "vddhawan9@gmail.com ");
+// let student2 = new User("Shradha khapra", "shradhakhapra12@gmail.com");
+
+// let teacher = new User("Dean", "dean@thapar.edu");
+
+//----- challenge 14 ---- Similar related to classes and objects by the use of inheritance -----
+
+// class admin extends User {
+//   constructor(name, email) {
+//     super(name, email);
+//   }
+//   editData() {
+//     data = "edited marks";
+//   }
+// }
+
+// let admin1 = new admin("Raghav Bhatnagar", "finance@thapar.edu");
