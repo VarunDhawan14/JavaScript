@@ -1,0 +1,9 @@
+button{
+   color: black;
+   background-color: rgb(223, 161, 16);
+   height: 60px;
+   width: 70px;
+   text-align: center ;
+   border: 1px solid black;
+}
+
